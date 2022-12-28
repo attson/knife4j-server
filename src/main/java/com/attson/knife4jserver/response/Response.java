@@ -1,4 +1,4 @@
-package com.example.knife4jserver.response;
+package com.attson.knife4jserver.response;
 
 public class Response<T> {
     public Boolean success;

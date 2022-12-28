@@ -1,6 +1,6 @@
-package com.example.knife4jserver.config;
+package com.attson.knife4jserver.config;
 
-import com.example.knife4jserver.response.Response;
+import com.attson.knife4jserver.response.Response;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;

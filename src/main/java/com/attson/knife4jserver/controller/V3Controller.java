@@ -1,8 +1,8 @@
-package com.example.knife4jserver.controller;
+package com.attson.knife4jserver.controller;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import com.example.knife4jserver.response.Response;
+import com.attson.knife4jserver.response.Response;
 import org.apache.logging.log4j.util.Strings;
 import org.springframework.http.ResponseEntity;
 import org.springframework.lang.NonNull;

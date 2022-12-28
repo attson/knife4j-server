@@ -1,4 +1,4 @@
-package com.example.knife4jserver.config;
+package com.attson.knife4jserver.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

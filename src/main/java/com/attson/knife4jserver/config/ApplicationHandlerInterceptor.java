@@ -1,6 +1,6 @@
-package com.example.knife4jserver.config;
+package com.attson.knife4jserver.config;
 
-import com.example.knife4jserver.response.Response;
+import com.attson.knife4jserver.response.Response;
 import org.apache.logging.log4j.util.Strings;
 import org.springframework.core.MethodParameter;
 import org.springframework.http.HttpStatusCode;
