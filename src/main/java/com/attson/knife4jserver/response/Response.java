@@ -19,7 +19,7 @@ public class Response<T> {
         return ok;
     }
 
-    public static <T> Response<T> fail(String errorMsg, String errorCode) {
+    public static <T> Response<T> fail(String errorCode, String errorMsg) {
         var ok = new Response<T>();
 
         ok.success = false;

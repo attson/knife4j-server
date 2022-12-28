@@ -1,0 +1,15 @@
+server:
+  port: 9999
+knife4j:
+  server:
+    login:
+      feishu:
+        app-id: "cli_a31590761d38d00b"
+        app-secret: "3YeiA64i8w09pgw34NR6kbmiIyWhrKKG"
+        redirect-uri: "http://127.0.0.1:5173/doc.html#/login"
+logging:
+  level:
+    root: info
+spring:
+  jackson:
+    date-format: "yyyy-MM-dd HH:mm:ss"
